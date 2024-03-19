@@ -10,6 +10,6 @@ if any error install lolcat in debian "sudo apt install lolcat", "sudo apt insta
 
 Delete correct_pass.txt everytime before performing new attack 
 
-if you wanna use custom password just change your wordlists file name to "password" file
+if you wanna use custom password just change your wordlists file name to password.txt
 
 The default wordlist file is strong too it can be used against easy password but not against hard passwords
